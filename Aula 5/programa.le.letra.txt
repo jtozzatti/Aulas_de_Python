@@ -1,0 +1,2 @@
+Aqui está um exemplo de texto com várias palavras.
+Vamos contar quantas palavras esse arquivo tem.
