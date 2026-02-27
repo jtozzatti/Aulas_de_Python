@@ -2,7 +2,7 @@
 
 import csv
 
-caminho_arquivo = 'examplo.csv'
+caminho_arquivo = 'exemplo.csv'
 
 with open(caminho_arquivo, mode='r', newline='', encoding='utf8') as arquivo:
     leito_csv = csv.reader(arquivo)
